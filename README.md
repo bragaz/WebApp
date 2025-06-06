@@ -10,10 +10,6 @@ Um aplicativo web desenvolvido com React, HTML, CSS e JavaScript. Este projeto s
 - JavaScript (ES6+)
 - [Outras bibliotecas, como Axios, React Router, etc.]
 
-## 📸 Demonstração
-
-![screenshot](link-da-imagem-ou-gif-do-app)
-
 ## 🔗 Link para o Projeto
 
 [link para o deploy do projeto, se houver]
