@@ -1,5 +1,4 @@
 
-````markdown
 # 🎓 Sistema de Gerenciamento Escolar - Ensino Médio
 
 Este é um sistema web desenvolvido com React, HTML, CSS e JavaScript, com o objetivo de facilitar o gerenciamento de turmas, alunos, professores, comunicados e presenças em uma escola de ensino médio.
