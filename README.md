@@ -67,7 +67,7 @@ npm run dev
 
 ## 🔌 API Reference
 
-The application uses a REST API simulated with JSON Server. The main available endpoints are:
+Portal do Aluno API – Mediotec é uma API REST desenvolvida para o gerenciamento de dados acadêmicos, como usuários, notas e comunicados. A API foi projetada com foco em segurança, escalabilidade e documentação acessível, permitindo fácil integração com aplicações frontend ou outras ferramentas.
 
 ### 🔹 Base URL
 
