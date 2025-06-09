@@ -40,7 +40,7 @@ Follow the steps below to run the project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-escolar.git
+git clone https://github.com/bragaz/sistema-escolar.git
 ```
 
 2. Navigate into the project folder:
